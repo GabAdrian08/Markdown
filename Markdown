@@ -1,0 +1,55 @@
+# Mapa Conceptual de la Naturaleza Humana
+
+## 1. Fase Orgánica
+
+### Aspectos Biológicos
+- **Estructura del Cuerpo**: Anatomía y fisiología, incluyendo sistemas musculoesquelético, cardiovascular, respiratorio, entre otros.
+- **Sistema Nervioso**: Cerebro, médula espinal y nervios periféricos; clave para la percepción, el control de movimientos y la regulación de funciones corporales.
+- **Genética**: Información hereditaria en los genes; determina características físicas y predisposiciones a enfermedades.
+- **Salud Física**: Bienestar general del cuerpo, equilibrio de sistemas corporales y capacidad para realizar actividades diarias.
+
+### Funciones Corporales
+- **Metabolismo**: Conversión de alimentos en energía y mantenimiento de funciones vitales.
+- **Reproducción**: Capacidad de producir descendencia, incluyendo aspectos biológicos y hormonales.
+- **Homeostasis**: Mantenimiento de un entorno interno estable a pesar de cambios externos, como regulación de temperatura y equilibrio de fluidos.
+
+## 2. Fase Psicológica
+
+### Desarrollo Cognitivo
+- **Percepción**: Interpretación y organización de la información sensorial recibida del entorno.
+- **Memoria**: Almacenamiento, retención y recuperación de información; crucial para el aprendizaje y la formación de experiencias.
+- **Razonamiento**: Pensamiento, análisis y toma de decisiones, incluyendo pensamiento lógico, crítico y creativo.
+- **Aprendizaje**: Adquisición de conocimientos, habilidades y comportamientos nuevos a través de experiencia, enseñanza u observación.
+
+### Emociones y Sentimientos
+- **Afecto**: Emociones y sentimientos experimentados y expresados, como alegría, tristeza, enojo y amor.
+- **Motivación**: Procesos que inician, guían y mantienen el comportamiento hacia un objetivo; puede ser intrínseca o extrínseca.
+- **Estado de Ánimo**: Predisposición emocional general que influye en la percepción y comportamiento.
+
+### Personalidad
+- **Rasgos de Personalidad**: Características duraderas que determinan cómo pensamos, sentimos y nos comportamos; ejemplos incluyen extroversión y responsabilidad.
+- **Identidad**: Sentido del yo, autoimagen y papel en el mundo, influenciado por experiencias personales y relaciones.
+- **Autoestima**: Evaluación general del propio valor, que influye en la confianza y la forma de enfrentar desafíos.
+
+## 3. Fase Social
+
+### Familia
+- **Estructura Familiar**: Organización de los miembros de la familia, como padres e hijos; influye en el desarrollo emocional y social.
+- **Roles Familiares**: Expectativas y responsabilidades asociadas con cada miembro de la familia, como cuidador o proveedor.
+- **Relaciones de Parentesco**: Vínculos entre familiares que afectan dinámicas y bienestar emocional.
+
+### Sociedad
+- **Normas Sociales**: Reglas y expectativas compartidas que guían el comportamiento; incluyen normas de cortesía, leyes y tradiciones.
+- **Valores Culturales**: Creencias y principios que una sociedad considera importantes, influyendo en la forma de vivir e interactuar.
+- **Estratificación Social**: Organización de la sociedad en jerarquías basadas en clase socioeconómica, estatus y poder; afecta acceso a recursos y oportunidades.
+
+### Escuela
+- **Educación Formal**: Enseñanza y aprendizaje estructurados en un entorno escolar; adquisición de conocimientos académicos y habilidades prácticas.
+- **Socialización**: Aprendizaje de normas, valores y comportamientos de la cultura a través de la interacción en el entorno escolar.
+- **Desarrollo de Habilidades**: Adquisición de habilidades necesarias para el éxito académico y profesional, como pensamiento crítico y comunicación.
+
+### Religión
+- **Creencias y Prácticas**: Sistemas de fe y rituales seguidos; incluyen creencias sobre el propósito de la vida y prácticas religiosas.
+- **Instituciones Religiosas**: Organizaciones y comunidades que practican una religión específica, como iglesias, mezquitas, sinagogas.
+- **Valores Espirituales**: Principios y valores derivados de la religión que guían el comportamiento y la toma de decisiones.
+
